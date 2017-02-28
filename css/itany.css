@@ -1,0 +1,28 @@
+#header{
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+#header h2{
+	font: bold 40px Arial;
+}
+#header h2 span{
+	font-size: 20px;
+}
+#header #newGame{
+	display: block;
+	width: 110px;
+	background: #8f7a66;
+	height: 40px;
+	color: #fff;
+	text-decoration: none;
+	line-height: 40px;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+#header p{
+	font: bold 25px Arial; 
+}
+#header p span{
+	font-size: 30px;
+}
